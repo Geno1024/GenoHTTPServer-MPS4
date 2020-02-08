@@ -2,9 +2,11 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
-      <modulePath path="$PROJECT_DIR$/languages/HTML/HTML.mpl" folder="" />
-      <modulePath path="$PROJECT_DIR$/languages/HTML/runtime/HTML.runtime.msd" folder="" />
-      <modulePath path="$PROJECT_DIR$/languages/HTML/sandbox/HTML.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.HTML/com.geno1024.httpserver4.HTML.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.HTML/runtime/com.geno1024.httpserver4.HTML.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.HTML/sandbox/com.geno1024.httpserver4.HTML.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.URL/com.geno1024.httpserver4.URL.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.URL/sandbox/com.geno1024.httpserver4.URL.sandbox.msd" folder="" />
     </projectModules>
   </component>
 </project>

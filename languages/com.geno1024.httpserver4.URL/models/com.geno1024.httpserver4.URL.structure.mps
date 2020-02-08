@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:f842c97f-6c7a-401d-bb61-301aa67db399(HTML.structure)">
+<model ref="r:454177d0-9a3b-4db7-8866-3bdd5c1fd718(com.geno1024.httpserver4.URL.structure)">
   <persistence version="9" />
   <languages>
     <use id="c72da2b9-7cce-4447-8389-f407dc1158b7" name="jetbrains.mps.lang.structure" version="9" />

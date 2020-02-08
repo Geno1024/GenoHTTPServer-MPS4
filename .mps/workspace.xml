@@ -6,7 +6,21 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d5416df-6cf9-4f60-992c-e6c61bc344b0" name="Default Changelist" comment="" />
+    <list default="true" id="2d5416df-6cf9-4f60-992c-e6c61bc344b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.mps/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/HTML.mpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/generator/templates/main@generator.mps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/models/HTML.behavior.mps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/models/HTML.constraints.mps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/models/HTML.editor.mps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/models/HTML.structure.mps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/models/HTML.typesystem.mps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/runtime/HTML.runtime.msd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/runtime/models/HTML.runtime.mps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/sandbox/HTML.sandbox.msd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HTML/sandbox/models/HTML.sandbox.mps" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +78,9 @@
       </view>
     </search_options>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MPSBookmarkManager">
     <option name="myBookmarkInfos">
       <array>
@@ -90,6 +107,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XWar2Gpyv185Hf5EIUSnsiHhkY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectPluginManager">
     <option name="pluginsState">
       <option name="BSicon.plugin.plugin.Plugin_ProjectPlugin">
@@ -160,10 +178,26 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Languages" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <SELECTED>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </SELECTED>
         </subPane>
       </pane>
     </panes>
@@ -175,7 +209,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="tasks.servers" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -190,7 +225,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Geno1024\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -200,7 +235,12 @@
       <option name="presentableId" value="Default" />
       <updated>1581164499289</updated>
     </task>
-    <servers />
+    <servers>
+      <GitHub url="https://github.com">
+        <option name="repoAuthor" value="Geno1024" />
+        <option name="repoName" value="GenoHTTPServer-MPS4" />
+      </GitHub>
+    </servers>
   </component>
   <component name="UsagesViewTool">
     <version id="1" />
@@ -208,5 +248,31 @@
     <default_view_options>
       <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
     </default_view_options>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="513" y="230" key="#MPSPropertiesConfigurable" timestamp="1581185217483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="513" y="230" key="#MPSPropertiesConfigurable/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581185217483" />
+    <state x="726" y="448" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog" timestamp="1581181325306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="726" y="448" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581181325306" />
+    <state x="718" y="266" key="FileChooserDialogImpl" timestamp="1581185395612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="266" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581185395612" />
+    <state x="810" y="100" key="SettingsEditor" timestamp="1581181267766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="100" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581181267766" />
+    <state x="705" y="253" key="jetbrains.mps.ide.ui.dialogs.properties.choosers.ChooserDialog" timestamp="1581185216911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="253" key="jetbrains.mps.ide.ui.dialogs.properties.choosers.ChooserDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581185216911" />
+    <state x="677" y="383" key="jetbrains.mps.workbench.dialogs.project.properties.project.ProjectPropertiesDialog" timestamp="1581185449724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="383" key="jetbrains.mps.workbench.dialogs.project.properties.project.ProjectPropertiesDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581185449724" />
   </component>
 </project>

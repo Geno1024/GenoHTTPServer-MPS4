@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:8448d839-927e-4ebd-83fb-a32c241f9e33(HTML.editor)">
+<model ref="r:d8aeb868-9242-42d5-9f35-896bdb541d9a(com.geno1024.httpserver4.HTML.editor)">
   <persistence version="9" />
   <languages>
     <use id="18bc6592-03a6-4e29-a83a-7ff23bde13ba" name="jetbrains.mps.lang.editor" version="13" />

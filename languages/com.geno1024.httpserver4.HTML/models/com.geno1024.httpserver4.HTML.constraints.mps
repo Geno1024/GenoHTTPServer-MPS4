@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:97950aed-fa9e-4eee-be0f-c14f95c0555c(HTML.constraints)">
+<model ref="r:9d16763b-221a-4509-a0da-bc5d2ab0139b(com.geno1024.httpserver4.HTML.constraints)">
   <persistence version="9" />
   <languages>
     <use id="5dae8159-ab99-46bb-a40d-0cee30ee7018" name="jetbrains.mps.lang.constraints.rules.kinds" version="0" />

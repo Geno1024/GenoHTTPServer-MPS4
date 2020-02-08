@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="HTML.runtime" uuid="644190c0-b346-4805-92aa-9e05ac3fefbf" moduleVersion="0" compileInMPS="true">
+<solution name="com.geno1024.httpserver4.HTML.runtime" uuid="7752b244-7232-4197-ae6e-755b874ab124" moduleVersion="0" compileInMPS="true">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
@@ -11,7 +11,7 @@
   <sourcePath />
   <languageVersions />
   <dependencyVersions>
-    <module reference="644190c0-b346-4805-92aa-9e05ac3fefbf(HTML.runtime)" version="0" />
+    <module reference="7752b244-7232-4197-ae6e-755b874ab124(com.geno1024.httpserver4.HTML.runtime)" version="0" />
   </dependencyVersions>
 </solution>
 

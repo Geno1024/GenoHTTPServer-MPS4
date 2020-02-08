@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:8e02e80b-69a2-4262-bd15-b3a31641d75a(HTML.typesystem)">
+<model ref="r:24e5dde3-5073-43c3-bea2-d5fa7b7c570d(com.geno1024.httpserver4.HTML.typesystem)">
   <persistence version="9" />
   <languages>
     <use id="7a5dda62-9140-4668-ab76-d5ed1746f2b2" name="jetbrains.mps.lang.typesystem" version="5" />
