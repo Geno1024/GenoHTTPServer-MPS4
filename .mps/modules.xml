@@ -2,9 +2,14 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/devkits/com.geno1024.httpserver4.Main/com.geno1024.httpserver4.Main.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.Domain/com.geno1024.httpserver4.Domain.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.Domain/sandbox/com.geno1024.httpserver4.Domain.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.HTML/com.geno1024.httpserver4.HTML.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.HTML/runtime/com.geno1024.httpserver4.HTML.runtime.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.HTML/sandbox/com.geno1024.httpserver4.HTML.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.Path/com.geno1024.httpserver4.Path.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.Path/sandbox/com.geno1024.httpserver4.Path.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.URL/com.geno1024.httpserver4.URL.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.URL/sandbox/com.geno1024.httpserver4.URL.sandbox.msd" folder="" />
     </projectModules>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dev-kit name="com.geno1024.httpserver4.Main" uuid="f666ab7d-8b95-4bf5-84f5-b3318061643d">
+  <exported-language name="0cb47ba5-60f5-4185-88a0-1f58ffd943dc(com.geno1024.httpserver4.Domain)" />
+  <exported-language name="d0884162-3270-44b4-8398-e47b47d2e6c6(com.geno1024.httpserver4.HTML)" />
+  <exported-language name="23f63fb6-baea-478d-8f04-650f3e95d18a(com.geno1024.httpserver4.Path)" />
+  <exported-language name="286a9852-a7d5-4bcb-bcb5-ee9d2ea8aba3(com.geno1024.httpserver4.URL)" />
+</dev-kit>
+
