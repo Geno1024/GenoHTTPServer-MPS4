@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<language namespace="com.geno1024.httpserver4.HTML" uuid="d0884162-3270-44b4-8398-e47b47d2e6c6" languageVersion="0" moduleVersion="0">
+<language namespace="com.geno1024.ufi.JavaClass" uuid="1c780bad-ba62-4295-ba4f-8cdc23549a76" languageVersion="0" moduleVersion="0">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
@@ -12,7 +12,7 @@
   </facets>
   <accessoryModels />
   <generators>
-    <generator alias="main" namespace="com.geno1024.httpserver4.HTML#01" uuid="d080a202-0c92-4598-b853-5686fb08f367">
+    <generator alias="main" namespace="com.geno1024.ufi.JavaClass#01" uuid="efbbd481-9ac5-4283-8cc1-d86c764b3b44">
       <models>
         <modelRoot contentPath="${module}/generator" type="default">
           <sourceRoot location="templates" />
@@ -45,9 +45,9 @@
         <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
         <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
         <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
-        <module reference="d0884162-3270-44b4-8398-e47b47d2e6c6(com.geno1024.httpserver4.HTML)" version="0" />
-        <module reference="d080a202-0c92-4598-b853-5686fb08f367(com.geno1024.httpserver4.HTML#01)" version="0" />
-        <module reference="7752b244-7232-4197-ae6e-755b874ab124(com.geno1024.httpserver4.HTML.runtime)" version="0" />
+        <module reference="ad4b18ce-621c-4728-8ccd-06843c3a03ca(com.geno1024.ufi)" version="0" />
+        <module reference="1c780bad-ba62-4295-ba4f-8cdc23549a76(com.geno1024.ufi.JavaClass)" version="0" />
+        <module reference="efbbd481-9ac5-4283-8cc1-d86c764b3b44(com.geno1024.ufi.JavaClass#01)" version="0" />
         <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
         <module reference="9e98f4e2-decf-4e97-bf80-9109e8b759aa(jetbrains.mps.lang.feedback.context)" version="0" />
       </dependencyVersions>
@@ -55,6 +55,9 @@
     </generator>
   </generators>
   <sourcePath />
+  <dependencies>
+    <dependency reexport="false">ad4b18ce-621c-4728-8ccd-06843c3a03ca(com.geno1024.ufi)</dependency>
+  </dependencies>
   <languageVersions>
     <language slang="l:f3061a53-9226-4cc5-a443-f952ceaf5816:jetbrains.mps.baseLanguage" version="9" />
     <language slang="l:443f4c36-fcf5-4eb6-9500-8d06ed259e3e:jetbrains.mps.baseLanguage.classifiers" version="0" />
@@ -79,6 +82,7 @@
     <language slang="l:446c26eb-2b7b-4bf0-9b35-f83fa582753e:jetbrains.mps.lang.modelapi" version="0" />
     <language slang="l:d4615e3b-d671-4ba9-af01-2b78369b0ba7:jetbrains.mps.lang.pattern" version="2" />
     <language slang="l:3a13115c-633c-4c5c-bbcc-75c4219e9555:jetbrains.mps.lang.quotation" version="4" />
+    <language slang="l:3ecd7c84-cde3-45de-886c-135ecc69b742:jetbrains.mps.lang.refactoring" version="0" />
     <language slang="l:982eb8df-2c96-4bd7-9963-11712ea622e5:jetbrains.mps.lang.resources" version="2" />
     <language slang="l:b3551702-269c-4f05-ba61-58060cef4292:jetbrains.mps.lang.rulesAndMessages" version="0" />
     <language slang="l:d8f591ec-4d86-4af2-9f92-a9e93c803ffa:jetbrains.mps.lang.scopes" version="0" />
@@ -94,11 +98,14 @@
     <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
     <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
     <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
-    <module reference="d0884162-3270-44b4-8398-e47b47d2e6c6(com.geno1024.httpserver4.HTML)" version="0" />
+    <module reference="ad4b18ce-621c-4728-8ccd-06843c3a03ca(com.geno1024.ufi)" version="0" />
+    <module reference="1c780bad-ba62-4295-ba4f-8cdc23549a76(com.geno1024.ufi.JavaClass)" version="0" />
     <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
     <module reference="a9e4c532-c5f5-4bb7-99ef-42abb73bbb70(jetbrains.mps.lang.descriptor.aspects)" version="0" />
     <module reference="9e98f4e2-decf-4e97-bf80-9109e8b759aa(jetbrains.mps.lang.feedback.context)" version="0" />
   </dependencyVersions>
-  <extendedLanguages />
+  <extendedLanguages>
+    <extendedLanguage>ad4b18ce-621c-4728-8ccd-06843c3a03ca(com.geno1024.ufi)</extendedLanguage>
+  </extendedLanguages>
 </language>
 

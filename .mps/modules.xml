@@ -6,12 +6,21 @@
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.Domain/com.geno1024.httpserver4.Domain.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.Domain/sandbox/com.geno1024.httpserver4.Domain.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.HTML/com.geno1024.httpserver4.HTML.mpl" folder="" />
-      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.HTML/runtime/com.geno1024.httpserver4.HTML.runtime.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.HTML/sandbox/com.geno1024.httpserver4.HTML.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.Path/com.geno1024.httpserver4.Path.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.Path/sandbox/com.geno1024.httpserver4.Path.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.URL/com.geno1024.httpserver4.URL.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.URL/sandbox/com.geno1024.httpserver4.URL.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.UserAgent/com.geno1024.httpserver4.UserAgent.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.httpserver4.UserAgent/sandbox/com.geno1024.httpserver4.UserAgent.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.misc.HandySearchEngine/com.geno1024.misc.HandySearchEngine.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.misc.HandySearchEngine/runtime/com.geno1024.misc.HandySearchEngine.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.misc.HandySearchEngine/sandbox/com.geno1024.misc.HandySearchEngine.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.ufi.JavaClass/com.geno1024.ufi.JavaClass.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.ufi.JavaClass/sandbox/com.geno1024.ufi.JavaClass.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.ufi/com.geno1024.ufi.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.utils.Maven/com.geno1024.utils.Maven.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.utils.Maven/sandbox/com.geno1024.utils.Maven.sandbox.msd" folder="" />
     </projectModules>
   </component>
 </project>

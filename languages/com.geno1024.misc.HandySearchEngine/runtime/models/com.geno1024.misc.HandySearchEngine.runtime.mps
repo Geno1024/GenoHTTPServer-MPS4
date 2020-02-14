@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:181133a1-6c72-482e-9df4-a31ee661883c(com.geno1024.httpserver4.HTML.runtime)">
+<model ref="r:3487d72b-0300-44f8-861b-61b1a590189b(com.geno1024.misc.HandySearchEngine.runtime)">
   <persistence version="9" />
   <languages />
   <imports />

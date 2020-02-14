@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<language namespace="com.geno1024.httpserver4.HTML" uuid="d0884162-3270-44b4-8398-e47b47d2e6c6" languageVersion="0" moduleVersion="0">
+<language namespace="com.geno1024.misc.HandySearchEngine" uuid="73a6d8b0-a5fe-4268-b1f4-e971c3cf1277" languageVersion="0" moduleVersion="0">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
     </modelRoot>
   </models>
   <facets>
-    <facet type="java">
-      <classes generated="true" path="${module}/classes_gen" />
-    </facet>
+    <facet type="java" />
   </facets>
   <accessoryModels />
   <generators>
-    <generator alias="main" namespace="com.geno1024.httpserver4.HTML#01" uuid="d080a202-0c92-4598-b853-5686fb08f367">
+    <generator alias="main" namespace="com.geno1024.misc.HandySearchEngine#01" uuid="21566ec2-112d-4f32-a96f-b77aeaa2412d">
       <models>
         <modelRoot contentPath="${module}/generator" type="default">
           <sourceRoot location="templates" />
@@ -45,9 +43,9 @@
         <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
         <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
         <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
-        <module reference="d0884162-3270-44b4-8398-e47b47d2e6c6(com.geno1024.httpserver4.HTML)" version="0" />
-        <module reference="d080a202-0c92-4598-b853-5686fb08f367(com.geno1024.httpserver4.HTML#01)" version="0" />
-        <module reference="7752b244-7232-4197-ae6e-755b874ab124(com.geno1024.httpserver4.HTML.runtime)" version="0" />
+        <module reference="73a6d8b0-a5fe-4268-b1f4-e971c3cf1277(com.geno1024.misc.HandySearchEngine)" version="0" />
+        <module reference="21566ec2-112d-4f32-a96f-b77aeaa2412d(com.geno1024.misc.HandySearchEngine#01)" version="0" />
+        <module reference="452ea911-c593-4638-af75-5921e5f9bca6(com.geno1024.misc.HandySearchEngine.runtime)" version="0" />
         <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
         <module reference="9e98f4e2-decf-4e97-bf80-9109e8b759aa(jetbrains.mps.lang.feedback.context)" version="0" />
       </dependencyVersions>
@@ -94,11 +92,14 @@
     <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
     <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
     <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
-    <module reference="d0884162-3270-44b4-8398-e47b47d2e6c6(com.geno1024.httpserver4.HTML)" version="0" />
+    <module reference="73a6d8b0-a5fe-4268-b1f4-e971c3cf1277(com.geno1024.misc.HandySearchEngine)" version="0" />
     <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
     <module reference="a9e4c532-c5f5-4bb7-99ef-42abb73bbb70(jetbrains.mps.lang.descriptor.aspects)" version="0" />
     <module reference="9e98f4e2-decf-4e97-bf80-9109e8b759aa(jetbrains.mps.lang.feedback.context)" version="0" />
   </dependencyVersions>
+  <runtime>
+    <dependency reexport="false">452ea911-c593-4638-af75-5921e5f9bca6(com.geno1024.misc.HandySearchEngine.runtime)</dependency>
+  </runtime>
   <extendedLanguages />
 </language>
 
