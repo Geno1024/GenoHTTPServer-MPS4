@@ -7,6 +7,7 @@
   </languages>
   <imports>
     <import index="ac3g" ref="r:e4025755-602c-41dc-b1d5-1654aae59361(com.geno1024.ufi.structure)" />
+    <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
   </imports>
   <registry>
     <language id="982eb8df-2c96-4bd7-9963-11712ea622e5" name="jetbrains.mps.lang.resources">
@@ -54,7 +55,7 @@
     <property role="EcuMT" value="1502842220055927451" />
     <property role="TrG5h" value="JavaClassFile" />
     <property role="19KtqR" value="true" />
-    <ref role="1TJDcQ" to="ac3g:1jraK_BT6Qb" resolve="Format" />
+    <ref role="1TJDcQ" to="ac3g:1jraK_BT6Qb" resolve="File" />
     <node concept="1irR5M" id="1jraK_BThrs" role="rwd14">
       <property role="2$rrk2" value="1" />
       <node concept="1irR9n" id="1jraK_BTihW" role="1irR9h">
@@ -79,16 +80,23 @@
     <node concept="1TJgyj" id="7jGqzW8vg0c" role="1TKVEi">
       <property role="IQ2ns" value="8425225821861249036" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="minorVersion" />
+      <property role="20kJfa" value="minor_version" />
       <property role="20lbJX" value="fLJekj4/_1" />
       <ref role="20lvS9" node="7jGqzW8vfZN" resolve="MinorVersion" />
     </node>
     <node concept="1TJgyj" id="7jGqzW8xCif" role="1TKVEi">
       <property role="IQ2ns" value="8425225821861872783" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="majorVersion" />
+      <property role="20kJfa" value="major_version" />
       <property role="20lbJX" value="fLJekj4/_1" />
       <ref role="20lvS9" node="7jGqzW8x7g3" resolve="MajorVersion" />
+    </node>
+    <node concept="1TJgyj" id="7jGqzW8_c6S" role="1TKVEi">
+      <property role="IQ2ns" value="8425225821862805944" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="constant_pool_count" />
+      <property role="20lbJX" value="fLJekj4/_1" />
+      <ref role="20lvS9" node="7jGqzW8_c6X" resolve="ConstantPoolCount" />
     </node>
   </node>
   <node concept="1TIwiD" id="1jraK_BTx4G">
@@ -105,6 +113,16 @@
     <property role="EcuMT" value="8425225821861737475" />
     <property role="TrG5h" value="MajorVersion" />
     <ref role="1TJDcQ" to="ac3g:1jraK_BTnRn" resolve="AbstractLine" />
+  </node>
+  <node concept="1TIwiD" id="7jGqzW8_c6X">
+    <property role="TrG5h" value="ConstantPoolCount" />
+    <property role="EcuMT" value="8425225821862805949" />
+    <ref role="1TJDcQ" to="ac3g:1jraK_BTnRn" resolve="AbstractLine" />
+  </node>
+  <node concept="1TIwiD" id="7jGqzW8__c5">
+    <property role="EcuMT" value="8425225821862908677" />
+    <property role="TrG5h" value="ConstantPoolInfo" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
   </node>
 </model>
 

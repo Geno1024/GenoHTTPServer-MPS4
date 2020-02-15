@@ -45,7 +45,7 @@
     </language>
   </registry>
   <node concept="1TIwiD" id="1jraK_BT6Qb">
-    <property role="TrG5h" value="Format" />
+    <property role="TrG5h" value="File" />
     <property role="EcuMT" value="1502842220055914136" />
     <property role="R5$K7" value="true" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
